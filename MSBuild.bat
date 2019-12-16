@@ -1,2 +1,2 @@
-%SystemRoot%\Microsoft.NET\Framework\v4.0.30319\MSBuild.exe "D:\Packages\數呾んVB164NET472\數呾ん.sln" /property:Configuration=Release /t:build /p:VisualStudioVersion=16.4
+%SystemRoot%\Microsoft.NET\Framework\v4.0.30319\MSBuild.exe "D:\Packages\數呾んVB164NET48\數呾ん.sln" /property:Configuration=Release /t:build /p:VisualStudioVersion=16.4
 Pause
